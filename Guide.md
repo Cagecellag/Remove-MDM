@@ -36,5 +36,6 @@
 - Delete all the contents of these files, "config, UserConfiguraionsProfiles, ConfigurationProfiles" (note, idfk what you're deleting here, the only this that matters is that it works)
 - After deleting the files you can head over to iTunes, in the Backups section click the "Restore Backup" button
 - Select the "Admin's iPad" and click continue
+
 - Wait until the restoration is complete
 - Now setup your iPad like you just got a new one and your done.
