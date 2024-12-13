@@ -1,2 +1,1 @@
-# Remove-MDM
-A how to remove a MDM (mobile devise management) from a iPad
+# Note: there is already a guide how to do this but it assums that iTunes doesnt block you and tells you that this devise is controlled by another device
