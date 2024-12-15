@@ -1,11 +1,61 @@
-# Note: there is already a guide how to do this but it assums that iTunes doesnt block you and tells you that this devise is controlled by another device, this repo accounts for that.
-Heres the link to the other repo: https://github.com/2bf/remove-mdm
-It explains the whole MDM in a better way.
+# **MDM Removal Guide for School iPads**
 
-Shit i need to say: 
+### Last Tested: December 13, 2024, on iOS 17.6.1
 
-This is 100% free, no need to install sketchy programs or pay for stuff.
+## What is This?
+This guide helps you remove MDM (Mobile Device Management) from school or organization-controlled iPads.
 
-MDM (Mobile Device Management) is a thing schools, companies, or groups use to control devices like iPads. They can stop you from installing apps they don’t like or send commands to the iPad.
+MDM is used to restrict apps, enforce settings, or send commands.
+This guide is 100% free—no sketchy apps or payments required.
+Works even if iTunes blocks you with:
+"This device is controlled by another computer."
 
-Follow these steps to remove MDM from your iPad. Just know, it might break the rules of whoever owns the device. This is just for learning, so don’t get in trouble!
+## Tools You Need
+A Windows PC
+iBackupBot
+iTunes
+A Lightning/USB-C cable
+A controllable Wi-Fi or hotspot
+
+## Instructions
+Option 1: Start Fresh
+
+1. Erase the iPad:
+  Go to Settings > General > Transfer or Reset iPad > Erase All Content and Settings.
+
+2. Block MDM:
+  Set up the iPad and connect to a hotspot.
+  When you reach the home screen, turn off the hotspot.
+  Confirm MDM isn’t installed:
+    Go to Settings > General > VPN & Device Management.
+
+3. Back Up the iPad:
+  Connect to your PC and back up using iTunes.
+
+4. Edit the Backup:
+  Open iBackupBot and delete these files:
+    config
+    UserConfigurationsProfiles
+    ConfigurationProfiles
+
+5. Restore the Backup:
+  Use iTunes to restore the edited backup.
+  Set up the iPad again.
+
+###  Done! No more MDM.
+
+## Option 2: Use a Pre-Cracked Backup
+1. Erase the iPad:
+
+Go to Settings > General > Transfer or Reset iPad > Erase All Content and Settings.
+
+2. Restore the Backup:
+  Place the cracked backup in this folder:
+    C:\Users\Admin\AppData\Roaming\Apple Computer\MobileSync\Backup
+  Use iTunes to restore it.
+
+###  Done! No MDM.
+
+# Need Help?
+**Email: cagecell@proton.me
+For a similar guide, check this repo: 2bf/remove-mdm.**
