@@ -5,9 +5,9 @@
 
 ## Important Notes
 All data will be erased. Export your files and photos to cloud storage or another device before proceeding.
-Re-enrollment is possible. This method does not prevent the school from regaining control if the iPad reconnects to their system.
-Compatibility: This guide is designed for older Jamf MDM systems on Windows PCs. Success with newer systems or macOS is not guaranteed.
-Required App: You will need iBackupBot. Uninstall it after use to avoid potential issues.
+you can Re-enrollment is possible by resetting the ipad. This method does not prevent the school from regaining control if the iPad reconnects to their system.
+Tested on an Older jamf MDM System and tested on windows pc
+Required App: You will need iBackupBot.
 
 ## Instructions
 Option 1: Start from Scratch
