@@ -1,5 +1,5 @@
-#MDM Removal Guide for School iPads
-###Last Tested: December 13, 2024, on iOS 17.6.1
+# MDM Removal Guide for School iPads
+### Last Tested: December 13, 2024, on iOS 17.6.1
 
 **⚠️ Disclaimer: Use this guide responsibly and at your own risk. This process deletes all data on the iPad and may have other unintended consequences. Always back up your data beforehand.**
 
