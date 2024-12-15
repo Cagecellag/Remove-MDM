@@ -58,4 +58,4 @@ Go to Settings > General > Transfer or Reset iPad > Erase All Content and Settin
 
 # Need Help?
 **Email: cagecell@proton.me
-For a similar guide, check this repo: 2bf/remove-mdm.**
+For a similar guide, check this repo:[ 2bf/remove-mdm.](https://github.com/2bf/remove-mdm)**
