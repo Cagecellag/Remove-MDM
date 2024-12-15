@@ -2,7 +2,7 @@
 Heres the link to the other repo: https://github.com/2bf/remove-mdm
 It explains the whole MDM in a better way.
 
-The guid is in the releases tab, 
+The guide is in the releases tab, 
 heres the link if you cant find it: https://github.com/Cagecellag/Remove-MDM/releases/
 
 Shit i need to say: 
