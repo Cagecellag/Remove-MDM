@@ -1,14 +1,14 @@
-﻿**Read everything here, ik its a lot but if you don't something might go wrong or wont work.**
+# ﻿**Read everything here, ik its a lot but if you don't something might go wrong or wont work.**
 
-**Some stuff you need to know first,**
+# **Some stuff you need to know first,**
 
 - If you already have a backup with all the stuff removed go to the second set of instructions (If you have no idea what I mean by this just ignore it and continue reading down below.)
 
-**Updated step by step guide to cracking a school iPad (MDM)**
+# **Updated step by step guide to cracking a school iPad (MDM)**
 
 **Last tested and working 13.12.2024 on iOS 17.6.1**
 
-**Some stuff you should keep in mind:** 
+## **Some stuff you should keep in mind:** 
 
 - This way of removing the MDM will delete all the contents of the iPad, so make sure you exported all your files and photos to a cloud storage, or just airdrop it to another device.
 - There is a easy way to enrol the iPad back in to the school system (aka, let your school take control of your iPad again.
@@ -17,7 +17,7 @@
 - I wrote this guide with the assumption that you use windows.
 - This guide also needs you to download a app, if i where you i would delete iBackupBot right after you're done with the cracking. I did it because it fucked my middle mouse button.
 
-**--First set of instructions--**
+## **--First set of instructions--**
 
 1. Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings), 
 1. After the reset, a welcome screen will appear,
@@ -50,7 +50,7 @@
 11. Wait until the restoration is complete
 11. Now setup your iPad like you just got a new one and your done.
 
-**--Second set of instructions--**
+## **--Second set of instructions--**
 
 - This set of instructions is for when you already have a backup with all the stuff deleted. 
 - This set will repeat the first three step
@@ -58,7 +58,7 @@
 - Important note: this step has many variations, I'm going to try too list of as many as I know if you're case isn't listed then try to contact me by Email: cagecell@proton.me
 - I highlighted the parts where both instructions are the same 
 
-**Type one**
+## **Type one**
 
 31. Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings), 
 31. After the reset, a welcome screen will appear,
@@ -71,7 +71,7 @@
 39. The welcome/welcome screen should come up on the iPad
 39. And you're done.
 
-**Type two**
+## **Type two**
 
 41. Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings), 
 41. After the reset, a welcome screen will appear,
