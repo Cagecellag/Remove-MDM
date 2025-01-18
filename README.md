@@ -13,4 +13,4 @@ MDM (Mobile Device Management) is a thing schools, companies, or groups use to c
 
 Follow these steps to remove MDM from your iPad. Just know, it might break the rules of whoever owns the device. This is just for learning, so don’t get in trouble!
 
-If you want to contact me in any way, email me at cagecell@protonmail.ch
+If you want to contact me in any way, email me at cagecell@protonmail.ch or send a message on discord: @cagecell
