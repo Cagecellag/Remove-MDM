@@ -1,4 +1,7 @@
 # Note: there is already a guide how to do this but it assums that iTunes doesnt block you and tells you that this devise is controlled by another device, this repo accounts for that.
+You are doing this at your own risk! 
+Dont blame me if you get cought i am only posting this because i found a solution and i would like to share the exploit.
+
 Heres the link to the other repo: https://github.com/2bf/remove-mdm
 It explains the whole MDM in a better way.
 
