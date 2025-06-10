@@ -8,6 +8,8 @@ It explains the whole MDM in a better way.
 The guide is in the releases tab, 
 heres the link if you cant find it: https://github.com/Cagecellag/Remove-MDM/releases/
 
+Something we noticed, one of our MDM bypassed iPads got their MDM completely removed. We aren’t certain if it’s because we updated it to iOS 18.5 or just because it’s been nearly a year since we did the bypass exploit.
+
 Shit i need to say: 
 
 This is 100% free, no need to install sketchy programs or pay for stuff.
