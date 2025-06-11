@@ -1,4 +1,4 @@
-# _**Read everything here, ik its a lot but if you don't something might go wrong or wont work.**_
+# __**Read everything here, ik its a lot but if you don't something might go wrong or wont work.**__
 
 If for some reason you lost the URL to the GitHub page you can click [here]((https://github.com/Cagecellag/Remove-MDM)).
 
