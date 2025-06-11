@@ -63,7 +63,7 @@
 - Track usage
 - Push remote commands
 
-This repo helps remove those profiles **manually**.
+This repo helps to bypass those profiles **manually**.
 
 ---
 
@@ -90,7 +90,7 @@ This repo helps remove those profiles **manually**.
 | Step | Description |
 |------|-------------|
 | 1️⃣ | Factory reset iPad |
-| 2️⃣ | Don’t connect to Wi-Fi during setup |
+| 2️⃣ | Disconnect Wi-Fi during setup |
 | 3️⃣ | Back up iPad using iTunes |
 | 4️⃣ | Edit the backup using iBackupBot |
 | 5️⃣ | Delete `.mobileconfig` and MDM plists |
