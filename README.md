@@ -1,4 +1,4 @@
-# 🔓 Remove MDM from iPad — The iTunes Block Fix
+# 🔓 Remove MDM from iPad
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![iOS Tested](https://img.shields.io/badge/iOS-17.6.1--18.5-blue)
