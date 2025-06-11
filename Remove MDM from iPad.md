@@ -63,7 +63,7 @@ If for some reason you lost the URL to the GitHub page you can click [here]((htt
 
 ## **Type one**
 
-1. <ins>Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings), </ins>
+1. <ins>Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings),
 2. After the reset, a welcome screen will appear,
 3. Connect your iPad to a pc via a cable </ins>
 4. Open iTunes,
