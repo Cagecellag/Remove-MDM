@@ -1,3 +1,11 @@
+Read everything here, ik its a lot but if you don't something might go wrong or wont work.
+If for some reason you lost the URL to the GitHub page you can click here.
+Some stuff you need to know first,
+If you already have a backup with all the stuff removed go to the second set of instructions (If you have no idea what I mean by this just ignore it and continue reading down below.)
+
+Updated step by step guide to cracking a school iPad (MDM)
+Last tested and working 13.12.2024 on iOS 17.6.1
+
 Some stuff you should keep in mind: 
 This way of removing the MDM will delete all the contents of the iPad, so make sure you exported all your files and photos to a cloud storage, or just airdrop it to another device.
 There is a easy way to enrol the iPad back in to the school system (aka, let your school take control of your iPad again.
