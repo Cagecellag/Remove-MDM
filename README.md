@@ -1,7 +1,7 @@
-# 🔓 Bypass MDM from iPad
+# 🔓 Bypass iPad MDM
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![iOS Tested](https://img.shields.io/badge/iOS-17.6.1--18.5-blue)
+![iOS Tested](https://img.shields.io/badge/iOS-17.6.1-blue)
 ![Status](https://img.shields.io/badge/status-Working-success)
 ![Free](https://img.shields.io/badge/100%25-Free-brightgreen)
 
