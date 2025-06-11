@@ -6,7 +6,7 @@ If for some reason you lost the URL to the GitHub page you can click [here]((htt
 
 - If you already have a backup with all the stuff removed go to the second set of instructions (If you have no idea what I mean by this just ignore it and continue reading down below.)
 
-# <span style="color:blue">**Updated step by step guide to cracking a school iPad (MDM)**</span>.
+# **Updated step by step guide to cracking a school iPad (MDM)**
 
 **Last tested and working 13.12.2024 on iOS 17.6.1**
 
@@ -59,13 +59,13 @@ If for some reason you lost the URL to the GitHub page you can click [here]((htt
 - Backup directory for iTunes: C:\Users\[Usernam]\AppData\Roaming\Apple Computer\MobileSync\Backup
 - Backup directory for Apple devices: C:\Users\[Usernam]\Apple\MobileSync\Backup
 - Important note: this step has many variations, I'm going to try too list of as many as I know if you're case isn't listed then try to contact me, the ways you can contact me should be listed on the GitHub page.
-- I highlighted the parts where both instructions are the same.
+- I underlined the parts where both instructions are the same.
 
 ## **Type one**
 
-1. Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings),
+1. <ins>Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings), </ins>
 2. After the reset, a welcome screen will appear,
-3. Connect your iPad to a pc via a cable
+3. Connect your iPad to a pc via a cable </ins>
 4. Open iTunes,
 5. If no setup screen appears just select the iPad icon in the top left
 6. Make sure you have the cracked backup in the backup folder, if you didn't do that yet do it and re plug in you're iPad so iTunes can detect your backup
