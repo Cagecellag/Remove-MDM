@@ -1,6 +1,6 @@
-# ﻿**Read everything here, ik its a lot but if you don't something might go wrong or wont work.**
+# __**Read everything here, ik its a lot but if you don't something might go wrong or wont work.**__
 
-If for some reason you lost the URL to the GitHub page you can click [here]([text](https://github.com/Cagecellag/Remove-MDM)).
+If for some reason you lost the URL to the GitHub page you can click [here]((https://github.com/Cagecellag/Remove-MDM)).
 
 # **Some stuff you need to know first,**
 
@@ -10,7 +10,7 @@ If for some reason you lost the URL to the GitHub page you can click [here]([tex
 
 **Last tested and working 13.12.2024 on iOS 17.6.1**
 
-## **Some stuff you should keep in mind:** 
+## **Some stuff you should keep in mind:**
 
 - This way of removing the MDM will delete all the contents of the iPad, so make sure you exported all your files and photos to a cloud storage, or just airdrop it to another device.
 - There is a easy way to enrol the iPad back in to the school system (aka, let your school take control of your iPad again.
@@ -21,7 +21,7 @@ If for some reason you lost the URL to the GitHub page you can click [here]([tex
 
 ## **--First set of instructions--**
 
-1. Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings), 
+1. Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings),
 1. After the reset, a welcome screen will appear,
 1. Go thru the menus until you come to the Wi-Fi screen
 1. Make sure to connect your iPad with a hot spot or a network you can turn of in a instant (you will see why in future steps)
@@ -38,14 +38,14 @@ If for some reason you lost the URL to the GitHub page you can click [here]([tex
 11. Go to your pc and open iTunes, open the device menu,
 11. In the backups section, select this computer and click back up now
 11. Wait for the backup to complete,
-11. In the meantime you can head over to[ https://www.icopybot.com/download.htm,](https://www.icopybot.com/download.htm) make sure you download the **iBackupBot for Windows**
+11. In the meantime you can head over to[https://www.icopybot.com/download.htm,](https://www.icopybot.com/download.htm) make sure you download the **iBackupBot for Windows**
 11. Dabble click the exe and install the program
 11. After installation open iBackupBot and wait for it to load
 11. After loading, in the top left corner there should be a backup called Admin's iPad
 11. Click on the small + button on the side to extend its contents
-11. Click on system files so you open its contents in the middle of the screen 
+11. Click on system files so you open its contents in the middle of the screen
 11. On the top bar there should be a search box, search for "config"
-11. This is where the jankiness begins, 
+11. This is where the jankiness begins,
 11. Delete all the contents of these files, "config, UserConfiguraionsProfiles, ConfigurationProfiles" (note, idfk what you're deleting here, the only this that matters is that it works)
 11. After deleting the files you can head over to iTunes, in the Backups section click the "Restore Backup" button
 11. Select the "Admin's iPad" and click continue
@@ -54,15 +54,15 @@ If for some reason you lost the URL to the GitHub page you can click [here]([tex
 
 ## **--Second set of instructions--**
 
-- This set of instructions is for when you already have a backup with all the stuff deleted. 
+- This set of instructions is for when you already have a backup with all the stuff deleted.
 - This set will repeat the first three step
 - The backup directory: C:\Users\Admin\AppData\Roaming\Apple Computer\MobileSync\Backup
-- Important note: this step has many variations, I'm going to try too list of as many as I know if you're case isn't listed then try to contact me by Email: cagecell@proton.me
-- I highlighted the parts where both instructions are the same 
+- Important note: this step has many variations, I'm going to try too list of as many as I know if you're case isn't listed then try to contact me by Email: <cagecell@proton.me>
+- I highlighted the parts where both instructions are the same
 
 ## **Type one**
 
-31. Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings), 
+31. Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings),
 31. After the reset, a welcome screen will appear,
 31. Connect your iPad to a pc via a cable
 31. Open iTunes,
@@ -75,10 +75,10 @@ If for some reason you lost the URL to the GitHub page you can click [here]([tex
 
 ## **Type two**
 
-41. Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings), 
+41. Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings),
 41. After the reset, a welcome screen will appear,
 41. Connect your iPad to a pc via a cable
-41. Open iTunes, it should welcome you to a setup screen, 
+41. Open iTunes, it should welcome you to a setup screen,
 41. Select restore backup
 41. Select the "cracked backup" and install it
 41. The welcome/welcome screen should come up on the iPad
