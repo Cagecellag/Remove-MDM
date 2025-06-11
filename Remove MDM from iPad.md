@@ -64,23 +64,23 @@ If for some reason you lost the URL to the GitHub page you can click [here]((htt
 ## **Type one**
 
 1. <ins>Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings),
-2. After the reset, a welcome screen will appear,
-3. Connect your iPad to a pc via a cable </ins>
+2. <ins>After the reset, a welcome screen will appear,
+3. <ins>Connect your iPad to a pc via a cable
 4. Open iTunes,
 5. If no setup screen appears just select the iPad icon in the top left
 6. Make sure you have the cracked backup in the backup folder, if you didn't do that yet do it and re plug in you're iPad so iTunes can detect your backup
 7. Select restore backup
-8. Select the "cracked backup" and install it
-9. The welcome/welcome screen should come up on the iPad
-10. And you're done.
+8. <ins>Select the "cracked backup" and install it
+9. <ins>The welcome/welcome screen should come up on the iPad
+10. <ins>And you're done.
 
 ## **Type two**
 
-1. Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings),
-2. After the reset, a welcome screen will appear,
-3. Connect your iPad to a pc via a cable
+1. <ins>Do a complete wipe of the iPad (located: General > Transfer or Reset iPad > Erase All Contents and Settings),
+2. <ins>After the reset, a welcome screen will appear,
+3. <ins>Connect your iPad to a pc via a cable
 4. Open iTunes, it should welcome you to a setup screen,
 5. Select restore backup
-6. Select the "cracked backup" and install it
-7. The welcome/welcome screen should come up on the iPad
-8. And you're done.
+6. <ins>Select the "cracked backup" and install it
+7. <ins>The welcome/welcome screen should come up on the iPad
+8. <ins>And you're done.
