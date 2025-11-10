@@ -8,7 +8,7 @@ If for some reason you lost the URL to the GitHub page you can click [here]((htt
 
 # **Updated step by step guide to cracking a school iPad (MDM)**
 
-**Last tested and working 13.12.2024 on iOS 17.6.1**
+**Last tested and working 10 November 2025 on iOS 18.6.2**
 
 ## **Some stuff you should keep in mind:**
 
