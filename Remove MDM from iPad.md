@@ -38,7 +38,7 @@ If for some reason you lost the URL to the GitHub page you can click [here]((htt
 15. Go to your pc and open iTunes, open the device menu,
 16. In the backups section, select this computer and click back up now
 17. Wait for the backup to complete,
-18. In the meantime you can head over to <https://www.icopybot.com/download.htm>, make sure you download the iBackupBot for Windows
+18. In the meantime you can head over to <https://www.icopybot.com/itunes-backup-manager.htm>, make sure you download the iBackupBot for Windows
 19. Dabble click the exe and install the program
 20. After installation open iBackupBot and wait for it to load
 21. After loading, in the top left corner there should be a backup called Admin's iPad
@@ -84,3 +84,4 @@ If for some reason you lost the URL to the GitHub page you can click [here]((htt
 6. <ins>Select the "cracked backup" and install it
 7. <ins>The welcome/welcome screen should come up on the iPad
 8. <ins>And you're done.
+
