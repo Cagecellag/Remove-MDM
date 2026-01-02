@@ -103,7 +103,7 @@ This repo helps to bypass those profiles **manually**.
 
 ## 🧪 Tested On
 
-- iPad 8th Gen — iOS 17.6.1    
+- iPad 8th Gen — iOS 26.2.0    
 
 Let me know if it worked on yours And what iPad you where on!
 
