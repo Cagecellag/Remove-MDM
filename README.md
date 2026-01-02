@@ -131,6 +131,3 @@ Let me know if it worked on yours And what iPad you where on!
 MIT — Do whatever you want. Just don’t monetize or scam people with this.
 
 ---
-
-##  Support 
-If you want to support the project, you can buy me a coffee here: [Support](https://ko-fi.com/realstmh)
