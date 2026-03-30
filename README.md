@@ -80,9 +80,10 @@ This method:
 
 ## 🧪 TESTED ON
 
-- iPad 8th Gen — iOS 26.2  
+- iPad 8th Gen — iOS 18.6.2
+- iPad 9th Gen - iOS 26.4  
 - iPad 10th Gen — tested  
-- Works on **up to iOS 26 and older**
+- Works on **up to iOS 26.4 and older**
 
 If it works for you:
 - Drop your iPad model
